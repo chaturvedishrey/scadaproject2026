@@ -12,3 +12,4 @@ This repository contains our SCADA project.
 ## Development
 We use GitHub for version control and collaboration.
 2026-11-01 - Piyush has checked in from Visual code
+##Ravi has checked in its first code
